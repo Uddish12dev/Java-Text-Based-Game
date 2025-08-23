@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=game
+comment1.params=
+comment1.target=void\ r3()
+comment2.params=
+comment2.target=void\ r2()
+comment3.params=
+comment3.target=void\ r1()
+comment4.params=
+comment4.target=void\ conask()
+comment4.text=\r\n\ Asking\ the\ user\ for\ continuing\ or\ not.\!\!\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
